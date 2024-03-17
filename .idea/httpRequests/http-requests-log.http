@@ -1,0 +1,9 @@
+GET http://localhost:8001/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-17T162325.200.json
+
+###
+
